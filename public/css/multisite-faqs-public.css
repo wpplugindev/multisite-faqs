@@ -1,0 +1,62 @@
+/**
+ * Less For FAQs Styles
+ */
+.ms-faq-content {
+  padding-top: 1px;
+}
+.ms-faq-content i.fa {
+  margin-right: 0.3em;
+}
+.ms-faq-content .ms-faq-top {
+  display: inline-block;
+  margin-bottom: 1em;
+}
+.ms-faq-toggle {
+  margin-bottom: 2px;
+  transition: all 0.5s;
+}
+.ms-faq-toggle .ms-toggle-title {
+  background-color: #fafafa;
+  border: 1px solid #ddd;
+  margin: 0;
+  height: auto;
+  cursor: pointer;
+  transition: all 0.2s;
+  padding: 1em;
+}
+.ms-faq-toggle .ms-toggle-title i.fa {
+  margin-right: 0.5em;
+}
+.ms-faq-toggle.active .ms-toggle-title,
+.ms-faq-toggle .ms-toggle-title:hover {
+  background-color: #eaeaea;
+}
+.ms-faq-toggle .ms-toggle-content {
+  padding: 1.5em 1.5em 0.3em;
+  margin: 0;
+  border: 1px solid #ddd;
+  display: none;
+}
+.ms-faqs-filters-container {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1em 0;
+}
+.ms-faqs-filters-container li {
+  display: inline;
+  padding: 0;
+  margin: 0;
+}
+.ms-faqs-filters-container li a {
+  display: inline-block;
+  border-bottom: 1px solid;
+  padding: 5px 10px;
+  margin: 0 10px 0 0;
+}
+.ms-faqs-filters-container li a:hover {
+  border-bottom: 2px solid;
+}
+.ms-faqs-filters-container li.active a {
+  border-bottom: 2px solid;
+  font-weight: bold;
+}

@@ -1,0 +1,71 @@
+/**
+ * Less For FAQs Styles
+ */
+
+.ms-faq-content {
+    padding-top: 1px;
+    i.fa{
+      margin-right: 0.3em;
+    }
+  .ms-faq-top{
+    display: inline-block;
+    margin-bottom: 1em;
+  }
+}
+
+.ms-faq-toggle {
+
+  margin-bottom: 2px;
+  transition: all 0.5s;
+
+  .ms-toggle-title{
+    background-color: #fafafa;
+    border: 1px solid #ddd;
+    margin: 0;
+    height: auto;
+    cursor: pointer;
+    transition: all 0.2s;
+    padding: 1em;
+    i.fa{
+      margin-right: 0.5em;
+    }
+  }
+
+  &.active .ms-toggle-title,
+  .ms-toggle-title:hover{
+    background-color: #eaeaea;
+  }
+
+  .ms-toggle-content {
+    padding: 1.5em 1.5em 0.3em;
+    margin: 0;
+    border: 1px solid #ddd;
+    display: none;
+  }
+}
+
+.ms-faqs-filters-container{
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1em 0;
+  li {
+    display: inline;
+    padding: 0;
+    margin: 0;
+    a{
+      display: inline-block;
+      border-bottom: 1px solid;
+      padding: 5px 10px;
+      margin: 0 10px 0 0;
+      &:hover{
+        border-bottom: 2px solid;
+      }
+    }
+    &.active{
+      a{
+        border-bottom: 2px solid;
+        font-weight: bold;
+      }
+    }
+  }
+}
