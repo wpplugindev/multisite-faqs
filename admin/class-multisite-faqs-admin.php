@@ -233,7 +233,7 @@ class Multisite_FAQS_Admin {
 		// sanitize and validate _POST variables
 		$global_faq = sanitize_key($_POST['global_faq']);
 		// check for valid values
-		if ($global_faq != 'on' || $global_faq != null) { 
+		if ($global_faq != 'on' && $global_faq != null) { 
 			$global_faq = null;
 		}
 
