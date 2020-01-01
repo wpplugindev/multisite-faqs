@@ -1,0 +1,276 @@
+# Copyright (C) 2019 WPplugins.Tech
+# This file is distributed under the same license as the Multisite FAQS plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Multisite FAQS 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/multisite-faqs\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-12-03T04:49:27+01:00\n"
+"PO-Revision-Date: 2020-01-01 18:44+1100\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Domain: multisite-faqs\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+#. Plugin Name of the plugin
+msgid "Multisite FAQS"
+msgstr "Multisite FAQS"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/wpplugins-tech/multisite-faqs"
+msgstr "https://github.com/wpplugins-tech/multisite-faqs"
+
+#. Description of the plugin
+msgid "Manage and Consolidate FAQs across a Wordpress Multisite Installation."
+msgstr ""
+"Manage and Consolidate FAQs across a Wordpress Multisite Installation."
+
+#. Author of the plugin
+msgid "WPplugins.Tech"
+msgstr "WPplugins.Tech"
+
+#. Author URI of the plugin
+msgid "https://wpplugins.tech/"
+msgstr "https://wpplugins.tech/"
+
+#: admin/class-multisite-faqs-admin.php:97
+msgctxt "Post Type General Name"
+msgid "FAQs"
+msgstr "FAQs"
+
+#: admin/class-multisite-faqs-admin.php:98
+msgctxt "Post Type Singular Name"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: admin/class-multisite-faqs-admin.php:99
+#: admin/class-multisite-faqs-admin.php:100
+#: admin/class-multisite-faqs-admin.php:102
+msgid "FAQs"
+msgstr "FAQs"
+
+#: admin/class-multisite-faqs-admin.php:101
+msgid "Parent FAQ:"
+msgstr "Parent FAQ:"
+
+#: admin/class-multisite-faqs-admin.php:103
+msgid "Add New FAQ"
+msgstr "Add New FAQ"
+
+#: admin/class-multisite-faqs-admin.php:104
+msgid "Add New"
+msgstr "Add New"
+
+#: admin/class-multisite-faqs-admin.php:105
+msgid "New FAQ"
+msgstr "New FAQ"
+
+#: admin/class-multisite-faqs-admin.php:106
+msgid "Edit FAQ"
+msgstr "Edit FAQ"
+
+#: admin/class-multisite-faqs-admin.php:107
+msgid "Update FAQ"
+msgstr "Update FAQ"
+
+#: admin/class-multisite-faqs-admin.php:108
+msgid "View FAQ"
+msgstr "View FAQ"
+
+#: admin/class-multisite-faqs-admin.php:109
+msgid "Search FAQ"
+msgstr "Search FAQ"
+
+#: admin/class-multisite-faqs-admin.php:110
+msgid "Not found"
+msgstr "Not found"
+
+#: admin/class-multisite-faqs-admin.php:111
+msgid "Not found in Trash"
+msgstr "Not found in Trash"
+
+#: admin/class-multisite-faqs-admin.php:115
+msgid "faq"
+msgstr "faq"
+
+#: admin/class-multisite-faqs-admin.php:116
+msgid "Frequently Asked Questions"
+msgstr "Frequently Asked Questions"
+
+#: admin/class-multisite-faqs-admin.php:146
+msgctxt "Taxonomy General Name"
+msgid "FAQ Groups"
+msgstr "FAQ Groups"
+
+#: admin/class-multisite-faqs-admin.php:147
+msgctxt "Taxonomy Singular Name"
+msgid "FAQ Group"
+msgstr "FAQ Group"
+
+#: admin/class-multisite-faqs-admin.php:148
+msgid "Groups"
+msgstr "Groups"
+
+#: admin/class-multisite-faqs-admin.php:149
+msgid "All FAQ Groups"
+msgstr "All FAQ Groups"
+
+#: admin/class-multisite-faqs-admin.php:150
+msgid "Parent FAQ Group"
+msgstr "Parent FAQ Group"
+
+#: admin/class-multisite-faqs-admin.php:151
+msgid "Parent FAQ Group:"
+msgstr "Parent FAQ Group:"
+
+#: admin/class-multisite-faqs-admin.php:152
+msgid "New FAQ Group Name"
+msgstr "New FAQ Group Name"
+
+#: admin/class-multisite-faqs-admin.php:153
+msgid "Add New FAQ Group"
+msgstr "Add New FAQ Group"
+
+#: admin/class-multisite-faqs-admin.php:154
+msgid "Edit FAQ Group"
+msgstr "Edit FAQ Group"
+
+#: admin/class-multisite-faqs-admin.php:155
+msgid "Update FAQ Group"
+msgstr "Update FAQ Group"
+
+#: admin/class-multisite-faqs-admin.php:156
+msgid "View FAQ Group"
+msgstr "View FAQ Group"
+
+#: admin/class-multisite-faqs-admin.php:157
+msgid "Separate FAQ Groups with commas"
+msgstr "Separate FAQ Groups with commas"
+
+#: admin/class-multisite-faqs-admin.php:158
+msgid "Add or remove FAQ Groups"
+msgstr "Add or remove FAQ Groups"
+
+#: admin/class-multisite-faqs-admin.php:159
+msgid "Choose from the most used"
+msgstr "Choose from the most used"
+
+#: admin/class-multisite-faqs-admin.php:160
+msgid "Popular FAQ Groups"
+msgstr "Popular FAQ Groups"
+
+#: admin/class-multisite-faqs-admin.php:161
+msgid "Search FAQ Groups"
+msgstr "Search FAQ Groups"
+
+#: admin/class-multisite-faqs-admin.php:162
+msgid "Not Found"
+msgstr "Not Found"
+
+#: admin/class-multisite-faqs-admin.php:190
+msgid "Multisite FAQ"
+msgstr "Multisite FAQ"
+
+#: admin/class-multisite-faqs-admin.php:209
+msgid "Show on all sites"
+msgstr "Show on all sites"
+
+#: admin/class-multisite-faqs-admin.php:257
+msgid "Multisite FAQs Settings"
+msgstr "Multisite FAQs Settings"
+
+#: admin/class-multisite-faqs-admin.php:258
+#: admin/class-multisite-faqs-admin.php:587
+msgid "Settings"
+msgstr "Settings"
+
+#: admin/class-multisite-faqs-admin.php:296
+msgid "Multisite Faq Settings"
+msgstr "Multisite Faq Settings"
+
+#: admin/class-multisite-faqs-admin.php:299
+msgid "Global FAQs Site"
+msgstr "Global FAQs Site"
+
+#: admin/class-multisite-faqs-admin.php:356
+msgid "Multisite FAQS Settings"
+msgstr "Multisite FAQS Settings"
+
+#: admin/class-multisite-faqs-admin.php:387
+msgid "FAQs Toggle Styles"
+msgstr "FAQs Toggle Styles"
+
+#: admin/class-multisite-faqs-admin.php:394
+msgid "FAQs Common Styles"
+msgstr "FAQs Common Styles"
+
+#: admin/class-multisite-faqs-admin.php:404
+msgid "FAQs toggle colors"
+msgstr "FAQs toggle colors"
+
+#: admin/class-multisite-faqs-admin.php:411
+msgid "Choose custom colors to apply colors provided in options below."
+msgstr "Choose custom colors to apply colors provided in options below."
+
+#: admin/class-multisite-faqs-admin.php:413
+msgid "Default Colors"
+msgstr "Default Colors"
+
+#: admin/class-multisite-faqs-admin.php:414
+msgid "Custom Colors"
+msgstr "Custom Colors"
+
+#: admin/class-multisite-faqs-admin.php:420
+msgid "Question text color"
+msgstr "Question text color"
+
+#: admin/class-multisite-faqs-admin.php:431
+msgid "Question text color on mouse over"
+msgstr "Question text color on mouse over"
+
+#: admin/class-multisite-faqs-admin.php:442
+msgid "Question background color"
+msgstr "Question background color"
+
+#: admin/class-multisite-faqs-admin.php:453
+msgid "Question background color on mouse over"
+msgstr "Question background color on mouse over"
+
+#: admin/class-multisite-faqs-admin.php:464
+msgid "Answer text color"
+msgstr "Answer text color"
+
+#: admin/class-multisite-faqs-admin.php:475
+msgid "Answer background color"
+msgstr "Answer background color"
+
+#: admin/class-multisite-faqs-admin.php:486
+msgid "Toggle Border color"
+msgstr "Toggle Border color"
+
+#: admin/class-multisite-faqs-admin.php:497
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: admin/class-multisite-faqs-admin.php:516
+msgid ""
+"These settings only applies to FAQs with toggle style. As FAQs with list "
+"style use colors inherited from currently active theme."
+msgstr ""
+"These settings only applies to FAQs with toggle style. As FAQs with list "
+"style use colors inherited from currently active theme."
+
+#: admin/class-multisite-faqs-admin.php:538
+#: admin/class-multisite-faqs-admin.php:553
+#: admin/class-multisite-faqs-admin.php:576
+msgid "Field id is missing!"
+msgstr "Field id is missing!"
+
+#: public/class-multisite-faqs-public.php:346
+#: public/class-multisite-faqs-public.php:614
+msgid "Back to Index"
+msgstr "Back to Index"
