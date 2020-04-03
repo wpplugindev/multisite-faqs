@@ -6,7 +6,7 @@
  * Loads and defines the internationalization files for this plugin
  * so that it is ready for translation.
  *
- * @link       https://github.com/wpplugins-tech/multisite-faqs
+ * @link       https://github.com/wpplugindev/multisite-faqs
  * @since      1.0.0
  *
  * @package    Multisite_FAQS
@@ -22,7 +22,7 @@
  * @since      1.0.0
  * @package    Multisite_FAQS
  * @subpackage Multisite_FAQS/includes
- * @author     WPplugins.Tech <info@wpplugins.tech>
+ * @author     WPplugindev.Net <info@wpplugindev.net>
  */
 class Multisite_FAQS_i18n {
 

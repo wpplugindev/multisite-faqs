@@ -1,7 +1,7 @@
 <?php
 /**
  *
- * @link       https://github.com/wpplugins-tech/multisite-faqs
+ * @link       https://github.com/wpplugindev/multisite-faqs
  * @since      1.0.0
  *
  * @package    Multisite_FAQS
@@ -9,7 +9,7 @@
  *
  * The public-facing functionality of the plugin.
  *
- * @author     WPplugins.Tech <info@wpplugins.tech>
+ * @author     WPplugindev.Net <info@wpplugindev.net>
  */
 class Multisite_FAQS_Public {
 

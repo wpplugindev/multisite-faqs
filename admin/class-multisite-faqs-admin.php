@@ -3,7 +3,7 @@
 /**
  * The admin-specific functionality of the plugin.
  *
- * @link       https://github.com/wpplugins-tech/multisite-faqs
+ * @link       https://github.com/wpplugindev/multisite-faqs
  * @since      1.0.0
  *
  * @package    Multisite_FAQS
@@ -18,7 +18,7 @@
  *
  * @package    Multisite_FAQS
  * @subpackage Multisite_FAQS/admin
- * @author     WPplugins.Tech <info@wpplugins.tech>
+ * @author     WPplugindev.Net <info@wpplugindev.net>
  */
 class Multisite_FAQS_Admin {
 

@@ -1,17 +1,17 @@
 <?php
 /**
  *
- * @link              https://github.com/wpplugins-tech/multisite-faqs
+ * @link              https://github.com/wpplugindev/multisite-faqs
  * @since             1.0.0
  * @package           Multisite_FAQS
  *
  * @wordpress-plugin
  * Plugin Name:       Multisite FAQS
- * Plugin URI:        https://github.com/wpplugins-tech/multisite-faqs
+ * Plugin URI:        https://github.com/wpplugindev/multisite-faqs
  * Description:       Manage and Consolidate FAQs across a Wordpress Multisite Installation.
  * Version:           1.0
- * Author:            WPplugins.Tech
- * Author URI:        https://wpplugins.tech/
+ * Author:            WPplugindev.Net
+ * Author URI:        https://wpplugindev.net/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       multisite-faqs

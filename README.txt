@@ -1,5 +1,5 @@
 === Multisite FAQS ===
-Contributors: wpplugins-tech
+Contributors: wpplugindev
 Tags: Multisite FAQs, FAQs, FAQ, FAQs list, accordion FAQs, toggle FAQs, filtered FAQs, grouped FAQs
 Requires at least: 4.0
 Tested up to: 5.3
@@ -51,7 +51,7 @@ FAQ lists are easily added to any blog page using shortcodes - see the documenta
 
 ### Links
 
-- [GitHub Repository](https://github.com/wpplugins-tech/multisite-faqs)
+- [GitHub Repository](https://github.com/wpplugindev/multisite-faqs)
 
 == Installation ==
 

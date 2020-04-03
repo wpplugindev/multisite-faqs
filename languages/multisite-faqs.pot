@@ -1,4 +1,4 @@
-# Copyright (C) 2019 WPplugins.Tech
+# Copyright (C) 2019 WPplugindev.Net
 # This file is distributed under the same license as the Multisite FAQS plugin.
 msgid ""
 msgstr ""
@@ -19,7 +19,7 @@ msgid "Multisite FAQS"
 msgstr ""
 
 #. Plugin URI of the plugin
-msgid "https://github.com/wpplugins-tech/multisite-faqs"
+msgid "https://github.com/wpplugindev/multisite-faqs"
 msgstr ""
 
 #. Description of the plugin
@@ -27,11 +27,11 @@ msgid "Manage and Consolidate FAQs across a Wordpress Multisite Installation."
 msgstr ""
 
 #. Author of the plugin
-msgid "WPplugins.Tech"
+msgid "WPplugindev.Net"
 msgstr ""
 
 #. Author URI of the plugin
-msgid "https://wpplugins.tech/"
+msgid "https://wpplugindev.net/"
 msgstr ""
 
 #: admin/class-multisite-faqs-admin.php:97

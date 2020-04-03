@@ -19,7 +19,7 @@
  * For more information, see the following discussion:
  * https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate/pull/123#issuecomment-28541913
  *
- * @link       https://github.com/wpplugins-tech/multisite-faqs
+ * @link       https://github.com/wpplugindev/multisite-faqs
  * @since      1.0.0
  *
  * @package    Multisite_FAQS
